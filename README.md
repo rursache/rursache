@@ -1,6 +1,4 @@
-# Hi, I'm Radu 👋
-
-📍 **Bucharest, Romania** — 🍏 **Apple Software Engineer** — 🧭 **Indie builder at RanduSoft**
+# Hi, I'm Radu 👋🏻
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat&logo=swift&logoColor=white)
