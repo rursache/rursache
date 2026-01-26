@@ -32,11 +32,11 @@ Also experimenting with AI, Linux, web, and backend tech stacks
 
 ## Recent Projects
 
-- 📥 **[Jira Export Markdown](https://chromewebstore.google.com/detail/jira-export-markdown/legpapdafeillobpbfmlaecnkkjagkom)** - Chrome extension to export JIRA tasks to markdown so AI agents can better interact with them (Open-source soon)
+- 📥 **[Jira Export Markdown](https://chromewebstore.google.com/detail/jira-export-markdown/legpapdafeillobpbfmlaecnkkjagkom)** - Chrome extension to export JIRA tasks as markdown (Open-source soon)
 - 🧭 **[RSAppStoreScraper](https://github.com/RanduSoft/RSAppStoreScraper)** - Apple App Store scraper in native Swift
-- 🧾 **[solo-cli](https://github.com/rursache/solo-cli)** - TUI for SOLO.ro accounting (Romanian freelancers)
-- 📸 **[UltimateShot](https://github.com/RanduSoft/UltimateShot)** - macOS screenshot capture tool. CleanShot X but without a subscription (Open-source soon)
-- 🪟 **[KDECodexBar](https://github.com/rursache/KDECodexBar)** - Arch Linux KDE port of CodexBar
+- 🧾 **[solo-cli](https://github.com/rursache/solo-cli)** - TUI + AI Agent Skills for SOLO.ro accounting (Romanian freelancers)
+- 📸 **[UltimateShot](https://github.com/RanduSoft/UltimateShot)** - macOS screenshot capture tool. core CleanShot X features without a subscription (Open-source soon)
+- 🪟 **[KDECodexBar](https://github.com/rursache/KDECodexBar)** - Arch Linux KDE GUI port of CodexBar
 - 🧰 **[RSEssentialsXC](https://github.com/RanduSoft/RSEssentialsXC)** - Must-have AIO UIKit + SwiftUI utils framework
 - 📅 **[RSDatePicker](https://github.com/RanduSoft/RSDatePicker)** - UIView wrapper for UIDatePicker in compact mode
 - 🔽 **[RSDropDown](https://github.com/RanduSoft/RSDropDown)** - Drop-down component for iOS
