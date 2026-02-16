@@ -32,7 +32,7 @@ Also experimenting with AI, Linux, web, and backend tech stacks
 
 ## Recent Projects
 
-- 🎰 **[loto-cli](https://github.com/rursache/loto-cli)** - TUI + AI Agent Skills for Loteria Romana: quickly check draw results and ticket win status
+- 🎰 **[loto-cli](https://github.com/rursache/loto-cli)** - TUI + AI Agent Skills for Loteria Romana: quickly check draw results, ticket win status and more
 - 📥 **[Jira Export Markdown](https://chromewebstore.google.com/detail/jira-export-markdown/legpapdafeillobpbfmlaecnkkjagkom)** - Chrome extension to export JIRA tasks as markdown (Open-source soon)
 - 🧭 **[RSAppStoreScraper](https://github.com/RanduSoft/RSAppStoreScraper)** - Apple App Store scraper in native Swift
 - 🧾 **[solo-cli](https://github.com/rursache/solo-cli)** - TUI + AI Agent Skills for SOLO.ro accounting (Romanian freelancers)
