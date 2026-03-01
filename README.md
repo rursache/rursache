@@ -32,9 +32,10 @@ Also experimenting with AI, Linux, web, and backend tech stacks
 
 ## Recent Projects
 
+- 🌱 **[Seedr](https://github.com/rursache/Seedr)** - A modern RatioMaster with WebUI that emulates BT clients and reports simulated upload to private trackers
 - ▶️ **[yt-shuffle](https://rursache.github.io/yt-shuffle)** - Proper YouTube Shuffle for public playlists
 - 🎰 **[loto-cli](https://github.com/rursache/loto-cli)** - TUI + AI Agent Skills for Loteria Romana: quickly check draw results, ticket win status and more
-- 📥 **[Jira Export Markdown](https://chromewebstore.google.com/detail/jira-export-markdown/legpapdafeillobpbfmlaecnkkjagkom)** - Chrome extension to export JIRA tasks as markdown (Open-source soon)
+- 📥 **[Jira Export Markdown](https://chromewebstore.google.com/detail/jira-export-markdown/legpapdafeillobpbfmlaecnkkjagkom)** - Chrome extension to export JIRA tasks as markdown
 - 🧭 **[RSAppStoreScraper](https://github.com/RanduSoft/RSAppStoreScraper)** - Apple App Store scraper in native Swift
 - 🧾 **[solo-cli](https://github.com/rursache/solo-cli)** - TUI + AI Agent Skills for SOLO.ro accounting (Romanian freelancers)
 - 📸 **[UltimateShot](https://github.com/RanduSoft/UltimateShot)** - macOS screenshot capture tool. core CleanShot X features without a subscription (Open-source soon)
