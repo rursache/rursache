@@ -32,6 +32,7 @@ Also experimenting with AI, Linux, web, and backend tech stacks
 
 ## Recent Projects
 
+- 👽 **[reddit-cli](https://github.com/rursache/reddit-cli)** - A quick CLI to read Reddit posts, no API key or auth required
 - 🌱 **[Seedr](https://github.com/rursache/Seedr)** - A modern RatioMaster with WebUI that emulates BT clients and reports simulated upload to private trackers
 - ▶️ **[yt-shuffle](https://rursache.github.io/yt-shuffle)** - Proper YouTube Shuffle for public playlists
 - 🎰 **[loto-cli](https://github.com/rursache/loto-cli)** - TUI + AI Agent Skills for Loteria Romana: quickly check draw results, ticket win status and more
