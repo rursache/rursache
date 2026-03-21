@@ -32,6 +32,7 @@ Also experimenting with AI, Linux, web, and backend tech stacks
 
 ## Recent Projects
 
+- 🍿 **[watchwise-cli](https://github.com/rursache/watchwise-cli)** - TUI + AI Agent Skills for hyper-personal movie and tv show recommendations based on your IMDB profile
 - 🔑 **[RSKeychain](https://github.com/randusoft/rskeychain)** - A modern Swift 6 keychain wrapper with SwiftUI-first support
 - 👽 **[reddit-cli](https://github.com/rursache/reddit-cli)** - A quick CLI to read Reddit posts, no API key or auth required
 - 🌱 **[Seedr](https://github.com/rursache/Seedr)** - A modern RatioMaster with WebUI that emulates BT clients and reports simulated upload to private trackers
