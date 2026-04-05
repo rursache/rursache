@@ -32,8 +32,9 @@ Also experimenting with AI, Linux, web, and backend tech stacks
 
 ## Recent Projects
 
+- 📸 **[PenguinSnap](https://github.com/rursache/PenguinSnap)** - A port of [UltimateShot](https://apps.apple.com/us/app/ultimateshot-capture-tool/id6757807718) for Arch Linux, supporting Wayland and KDE
 - 🎮 **[proton-run](https://github.com/rursache/proton-run)** - The fastest way to run Windows Games and Apps via Steam's Proton on Arch Linux distros
-- 🎡 **[WheelOfNames](https://randusoft.ro/wheel/)** - A modern recreation of WheelOfNames.com without ads, cookie banners and with multiple QoL features added
+- 🎡 **[WheelOfNames](https://randusoft.ro/wheel/)** - A modern recreation of WheelOfNames.com without ads, cookie banners + multiple QoL features
 - 🍿 **[watchwise-cli](https://github.com/rursache/watchwise-cli)** - TUI + AI Agent Skills for hyper-personal movie and tv show recommendations based on your IMDB profile
 - 🔑 **[RSKeychain](https://github.com/randusoft/rskeychain)** - A modern Swift 6 keychain wrapper with SwiftUI-first support
 - 👽 **[reddit-cli](https://github.com/rursache/reddit-cli)** - A quick CLI to read Reddit posts, no API key or auth required
