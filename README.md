@@ -32,6 +32,7 @@ Also experimenting with AI, Linux, web, and backend tech stacks
 
 ## Recent Projects
 
+- 📻 **[StationCast](https://github.com/rursache/StationCast)** - Self-hosted web radio station management suite
 - 📸 **[PenguinSnap](https://github.com/rursache/PenguinSnap)** - A port of [UltimateShot](https://apps.apple.com/us/app/ultimateshot-capture-tool/id6757807718) for Arch Linux, supporting Wayland and KDE
 - 🎮 **[proton-run](https://github.com/rursache/proton-run)** - The fastest way to run Windows Games and Apps via Steam's Proton on Arch Linux distros
 - 🎡 **[WheelOfNames](https://randusoft.ro/wheel/)** - A modern recreation of WheelOfNames.com without ads, cookie banners + multiple QoL features
