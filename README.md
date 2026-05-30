@@ -32,6 +32,7 @@ Also experimenting with AI, Linux, web, and backend tech stacks
 
 ## Recent Projects
 
+- 📅 **[CalendarPlusPlus](https://github.com/rursache/CalendarPlusPlus)** - macOS Calendar app never got the iPad's timeline list view. Fixed.
 - 📲 **[SimFiles](https://github.com/rursache/SimFiles)** - Developer tool to browse and manage the files inside iOS Simulators
 - 📻 **[StationCast](https://github.com/rursache/StationCast)** - Self-hosted web radio station management suite
 - 📸 **[PenguinSnap](https://github.com/rursache/PenguinSnap)** - A port of [UltimateShot](https://apps.apple.com/us/app/ultimateshot-capture-tool/id6757807718) for Arch Linux, supporting Wayland and KDE
@@ -49,5 +50,5 @@ Also experimenting with AI, Linux, web, and backend tech stacks
 - 📸 **[UltimateShot](https://apps.apple.com/us/app/ultimateshot-capture-tool/id6757807718)** - macOS screenshot capture tool. core CleanShot X features without a subscription
 - 🪟 **[KDECodexBar](https://github.com/rursache/KDECodexBar)** - Arch Linux KDE GUI port of CodexBar
 - 🧰 **[RSEssentialsXC](https://github.com/RanduSoft/RSEssentialsXC)** - Must-have AIO UIKit + SwiftUI utils framework
-- 📅 **[RSDatePicker](https://github.com/RanduSoft/RSDatePicker)** - UIView wrapper for UIDatePicker in compact mode
+- 📆 **[RSDatePicker](https://github.com/RanduSoft/RSDatePicker)** - UIView wrapper for UIDatePicker in compact mode
 - 🔽 **[RSDropDown](https://github.com/RanduSoft/RSDropDown)** - Drop-down component for iOS
