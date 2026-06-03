@@ -10,28 +10,25 @@
 ![tvOS](https://img.shields.io/badge/-tvOS-000000?style=flat&logo=apple&logoColor=white)
 ![visionOS](https://img.shields.io/badge/-visionOS-000000?style=flat&logo=apple&logoColor=white)
 
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat&logo=openaigym&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-d26d48?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat&logo=openaigym&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-FFFFFF?style=flat&logo=googlegemini&logoColor=black)
 
-<img src="https://i.imgur.com/k5dbkzM.png" width="100" height="100">
-
-Indie developer building Apple-platform apps and open-source libraries under **[RanduSoft](https://github.com/RanduSoft)**
+Indie developer building Apple-platform apps and open-source frameworks under the **[RanduSoft](https://github.com/RanduSoft)** brand
 
 Strong in design, with multiple successful App Store apps built end‑to‑end: product, design, implementation, and marketing
 
-Also experimenting with AI, Linux, web, and backend tech stacks
+Early adopter of Agentic Engineering tools and everything-AI. Also experimenting with Linux, web, and backend tech stacks
 
 ## Connect
 
 [![RanduSoft](https://img.shields.io/badge/-RanduSoft_page-181717?style=flat&logo=appstore&logoColor=white)](https://randusoft.ro)
-
 [![Website](https://img.shields.io/badge/-Personal_page:_radu.ursache.ro-0A0A0A?style=flat&logo=google-chrome&logoColor=white)](https://radu.ursache.ro)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn:_in%2Frursache-0077B5?style=flat&logo=distrobox&logoColor=white)](https://www.linkedin.com/in/rursache/)
 
-## Recent Projects
+## Recent Open-Source Projects
 
+- 🗣️ **[vid-summary-cli](https://github.com/rursache/vid-summary-cli)** - Multi-platform cli tool to summarize videos via a yt-dlp(*) → ffmpeg → whisper.cpp → AI pipeline
 - 📅 **[CalendarPlusPlus](https://github.com/rursache/CalendarPlusPlus)** - macOS Calendar app never got the iPad's timeline list view. Fixed.
 - 📲 **[SimFiles](https://github.com/rursache/SimFiles)** - Developer tool to browse and manage the files inside iOS Simulators
 - 📻 **[StationCast](https://github.com/rursache/StationCast)** - Self-hosted web radio station management suite
