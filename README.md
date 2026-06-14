@@ -28,6 +28,7 @@ Early adopter of Agentic Engineering tools and everything-AI. Also experimenting
 
 ## Recent Open-Source Projects
 
+- ✍🏻 **[Signr](https://github.com/rursache/Signr)** - Native macOS IPA signer with dylib & deb injection. Supports paid and free accounts and lots of IPA customizations
 - 🗣️ **[vid-summary-cli](https://github.com/rursache/vid-summary-cli)** - Multi-platform cli tool to summarize videos via a yt-dlp(*) → ffmpeg → whisper.cpp → AI pipeline
 - 📅 **[CalendarPlusPlus](https://github.com/rursache/CalendarPlusPlus)** - macOS Calendar app never got the iPad's timeline list view. Fixed.
 - 📲 **[SimFiles](https://github.com/rursache/SimFiles)** - Developer tool to browse and manage the files inside iOS Simulators
