@@ -28,9 +28,10 @@ Early adopter of Agentic Engineering tools and everything-AI. Also experimenting
 
 ## Recent Open-Source Projects
 
+- 🔍 **[Velox](https://github.com/rursache/Velox)** - Ultra-fast native macOS Spotlight-style launcher with currency exchange and math support
 - ✍🏻 **[Signr](https://github.com/rursache/Signr)** - Native macOS IPA signer with dylib & deb injection. Supports paid and free accounts and lots of IPA customizations
 - 🗣️ **[vid-summary-cli](https://github.com/rursache/vid-summary-cli)** - Multi-platform cli tool to summarize videos via a yt-dlp(*) → ffmpeg → whisper.cpp → AI pipeline
-- 📅 **[CalendarPlusPlus](https://github.com/rursache/CalendarPlusPlus)** - macOS Calendar app never got the iPad's timeline list view. Fixed.
+- 📅 **[CalendarPlusPlus](https://github.com/rursache/CalendarPlusPlus)** - macOS Calendar app never got the iPad's timeline list view. Fixed
 - 📲 **[SimFiles](https://github.com/rursache/SimFiles)** - Developer tool to browse and manage the files inside iOS Simulators
 - 📻 **[StationCast](https://github.com/rursache/StationCast)** - Self-hosted web radio station management suite
 - 📸 **[PenguinSnap](https://github.com/rursache/PenguinSnap)** - A port of [UltimateShot](https://apps.apple.com/us/app/ultimateshot-capture-tool/id6757807718) for Arch Linux, supporting Wayland and KDE
