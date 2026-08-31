@@ -28,7 +28,7 @@ Early adopter of Agentic Engineering tools and everything-AI. Also experimenting
 
 ## Recent Open-Source Projects
 
-- 🟢 **[always-green](https://github.com/rursache/always-green)** - Keep your Slack status always green. [Slack.green](https://slack.green/en) alternative but local, private, open-source and free
+- 🟢 **[always-green-cli](https://github.com/rursache/always-green-cli)** - Keep your Slack status always green. [Slack.green](https://slack.green/en) alternative but local, private, open-source and free
 - 🔍 **[Velox](https://github.com/rursache/Velox)** - Ultra-fast native macOS Spotlight-style launcher with currency exchange and math support
 - ✍🏻 **[Signr](https://github.com/rursache/Signr)** - Native macOS IPA signer with dylib & deb injection. Supports paid and free accounts and lots of IPA customizations
 - 🗣️ **[vid-summary-cli](https://github.com/rursache/vid-summary-cli)** - Multi-platform cli tool to summarize videos via a yt-dlp(*) → ffmpeg → whisper.cpp → AI pipeline
