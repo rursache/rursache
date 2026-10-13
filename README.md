@@ -28,6 +28,7 @@ Early adopter of Agentic Engineering tools and everything-AI. Also experimenting
 
 ## Recent Open-Source Projects
 
+- 🃏 **[Balatro Mod Manager](https://github.com/rursache/balatro-mod-manager)** - Multi-Platform Mod Manager for Balatro
 - 🟢 **[always-green-cli](https://github.com/rursache/always-green-cli)** - Keep your Slack status always green. [Slack.green](https://slack.green/en) alternative but local, private, open-source and free
 - 🔍 **[Velox](https://github.com/rursache/Velox)** - Ultra-fast native macOS Spotlight-style launcher with currency exchange and math support
 - ✍🏻 **[Signr](https://github.com/rursache/Signr)** - Native macOS IPA signer with dylib & deb injection. Supports paid and free accounts and lots of IPA customizations
