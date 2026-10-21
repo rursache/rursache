@@ -28,7 +28,7 @@ Early adopter of Agentic Engineering tools and everything-AI. Also experimenting
 
 ## Recent Open-Source Projects
 
-- 🔖. **[Prompt Buddy](https://randusoft.ro/promptBuddy)** - Web app for storing prompts you use with AI agents. Supports smart placeholders, grouping, sorting and more
+- 🔖. **[Prompt Buddy](https://randusoft.ro/promptbuddy)** - Web app for storing reusable AI agents prompts. Supports smart placeholders, grouping, sorting and more
 - 🃏 **[Balatro Mod Manager](https://github.com/rursache/balatro-mod-manager)** - Multi-Platform Mod Manager for Balatro
 - 🟢 **[always-green-cli](https://github.com/rursache/always-green-cli)** - Keep your Slack status always green. [Slack.green](https://slack.green/en) alternative but local, private, open-source and free
 - 🔍 **[Velox](https://github.com/rursache/Velox)** - Ultra-fast native macOS Spotlight-style launcher with currency exchange and math support
